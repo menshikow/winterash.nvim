@@ -1,5 +1,5 @@
 vim.o.background = "dark"
-vim.cmd.runtime("ALL lua/bark_nord/base.vim")
+vim.cmd.runtime("ALL lua/winterash/base.vim")
 
 -- Muted completion windows without Bark's reversed popup selection.
 local completion_highlights = {
@@ -122,4 +122,4 @@ end
 -- match the divider to the black background on both sides of Neo-tree.
 vim.api.nvim_set_hl(0, "NeoTreeWinSeparator", { fg = 0x101010, bg = 0x101010 })
 
-vim.g.colors_name = "bark-nord"
+vim.g.colors_name = "winterash"
