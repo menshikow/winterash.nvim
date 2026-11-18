@@ -6,7 +6,7 @@ highlights for blink.cmp, gitsigns.nvim, and Neo-tree.
 
 Requires Neovim 0.9 or newer. Use a terminal with true-color support.
 
-![Winterash highlighting a Lua example](assets/preview.png)
+![Winterash highlighting a Neovim Lua configuration](assets/winterash-lua.png)
 
 ## Installation
 
