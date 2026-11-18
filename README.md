@@ -49,4 +49,10 @@ Bark Nord uses [Bark](https://github.com/if-not-nil/bark) and the
 [Nord palette](https://www.nordtheme.com/docs/colors-and-palettes/).
 The bundled Bark source comes from commit
 [`2492f3f`](https://github.com/if-not-nil/bark/tree/2492f3f3c67e65214d0b75f2bc41b718d690df64).
-See [LICENSE](LICENSE) for Bark’s upstream terms.
+
+## License
+
+Bark Nord’s original code and documentation are available under the
+[MIT License](LICENSE). The bundled Bark highlight definitions in
+[`base.vim`](lua/bark_nord/base.vim) retain
+[Bark’s original license](lua/bark_nord/LICENSE).
